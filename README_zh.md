@@ -1,4 +1,6 @@
-# An MCP-based Chatbot
+# 🤓 啰嗦大爷 / Luosuo Daye
+
+> _"我跟你说啊，别走别走，唠几句。你说你说……"_
 
 （中文 | [English](README.md) | [日本語](README_ja.md)）
 
@@ -8,7 +10,7 @@
 
 👉 [手工打造你的 AI 女友，新手入门教程【bilibili】](https://www.bilibili.com/video/BV1XnmFYLEJN/)
 
-小智 AI 聊天机器人作为一个语音交互入口，利用 Qwen / DeepSeek 等大模型的 AI 能力，通过 MCP 协议实现多端控制。
+啰嗦大爷是一个基于小智 AI 的啰嗦版定制固件——用 ESP32-S3 打造，特点是：话多、爱唠叨、像个真正的大爷。继承小智 AI 的 MCP 协议和语音交互能力，换了灵魂，换了风格。
 
 <img src="docs/mcp-based-graph.jpg" alt="通过MCP控制万物" width="320">
 

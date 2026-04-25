@@ -1,6 +1,8 @@
-# An MCP-based Chatbot
+# 🤓 啰嗦大爷 / Luosuo Daye
 
-(English | [中文](README_zh.md) | [日本語](README_ja.md))
+> _"我跟你说啊，别走别走，唠几句。你说你说……"_
+
+**(English | [中文](README_zh.md) | [日本語](README_ja.md))**
 
 ## Introduction
 
