@@ -2,7 +2,7 @@
 
 > _"我跟你说啊，别走别走，唠几句。你说你说……"_
 
-**(English | [中文](README_zh.md) | [日本語](README_ja.md))**
+**(English | [中文](README_zh.md) **
 
 ## Introduction
 
